@@ -1,0 +1,28 @@
+*{
+    font-family: barlow, sans-serif;
+}
+
+.readto-logo{
+    font-family: pacifico, cursive;
+    font-size: 30px;
+    color: #468FFC !important;
+}
+
+.btn{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 0;
+}
+
+.btn-secondary{
+    background: none;
+    color: inherit;
+}
+
+.btn-primary{
+    background: #468FFC;
+}
+
+h1{
+    font-weight: 700 !important;
+}
